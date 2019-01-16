@@ -5,7 +5,7 @@ import Friendcard from "./components/Friendcard";
 import Row from "./components/Row/Row";
 import Footer from "./components/Footer";
 import pokemon from "./pokemon.json";
-import "./App.css";
+
 
 
 class App extends Component {
