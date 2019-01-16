@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "bellsprout.jpg"
+    },
+    {
+      "id": 2,
+      "image": "charmander.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "cyndaquil.jpeg"
+    },
+    {
+      "id": 4,
+      "image": "dragonair.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "eevee.jpg"
+    },
+    {
+      "id": 6,
+      "image": "fenneken.jpg"
+    },
+    {
+      "id": 7,
+      "image": "golem.jpg"
+    },
+    {
+      "id": 8,
+      "image": "lugia.jpg"
+    },
+    {
+      "id": 9,
+      "image": "maril.jpg"
+    },
+    {
+      "id": 10,
+      "image": "pikachu.jpeg"
+    },
+    {
+      "id": 11,
+      "image": "squirtle.jpeg"
+    },
+    {
+      "id": 12,
+      "image": "wigglytuff.jpg"
+    }
+  ]
